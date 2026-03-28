@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import Image from "next/image"
-import { Instagram, Menu, X, ChevronLeft, ChevronRight } from "lucide-react"
+import { Instagram, Menu, X, ChevronLeft, ChevronRight, Calendar } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const galleryImages = [
@@ -87,14 +87,14 @@ function Navbar() {
 
         <div className="flex md:order-2 gap-2">
           <a
-            href="https://instagram.com/bryann.817"
+            href="https://www.picktime.com/cutsbybryan#book/services"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex"
           >
-            <Button variant="outline" size="sm" className="gap-2">
-              <Instagram className="w-4 h-4" />
-              Follow
+            <Button size="sm" className="gap-2">
+              <Calendar className="w-4 h-4" />
+              Book Now
             </Button>
           </a>
           <button
@@ -161,14 +161,19 @@ function HeroSection() {
           Crafting clean fades, sharp lineups, and modern textures. Every cut is a canvas — let me create yours.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="#gallery">
-            <Button size="lg" className="w-full sm:w-auto">
-              View My Work
+          <a
+            href="https://www.picktime.com/cutsbybryan#book/services"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Button size="lg" className="w-full sm:w-auto gap-2">
+              <Calendar className="w-5 h-5" />
+              Book Now
             </Button>
           </a>
-          <a href="#contact">
+          <a href="#gallery">
             <Button variant="outline" size="lg" className="w-full sm:w-auto">
-              Get in Touch
+              View My Work
             </Button>
           </a>
         </div>
@@ -463,13 +468,13 @@ function ContactSection() {
           {/* CTA */}
           <div className="mt-12">
             <a
-              href="https://instagram.com/bryann.817"
+              href="https://www.picktime.com/cutsbybryan#book/services"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Button size="lg" className="gap-2">
-                <Instagram className="w-5 h-5" />
-                Message on Instagram
+                <Calendar className="w-5 h-5" />
+                Book Your Appointment
               </Button>
             </a>
           </div>
