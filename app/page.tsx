@@ -18,18 +18,6 @@ const galleryImages = [
     src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4195.JPG-gOMSKkQVet81hzgR63oo1Ad8kpHvpr.jpeg",
     alt: "Precision clipper work on neckline"
   },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/DSC08882.JPG-wM1UfZKaTohZPvIxVmzsGpIKlwwIXm.jpeg",
-    alt: "Barber at work with professional technique"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4185.JPG-5pbR2w61sRo7rzRZHpTOFgA4upjsvE.jpeg",
-    alt: "Studio atmosphere with ring light"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4188.JPG-dbv6xyZ9MAVY890dJkndpB5jbsGakI.jpeg",
-    alt: "Focused barber during haircut session"
-  },
 ]
 
 function TikTokIcon({ className }: { className?: string }) {
