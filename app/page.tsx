@@ -7,36 +7,36 @@ import { Button } from "@/components/ui/button"
 
 const galleryImages = [
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4194.JPG-SlsrFUMbu3FV7lheA8QMz9FvOuic2g.jpeg",
-    alt: "Detailed fade haircut in progress"
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4195.JPG-Wia4zOSdHhfcVGKlxO52U1clddhb3a.jpeg",
+    alt: "Precision clipper work in black and white"
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4196.JPG-m8HDNnOildj8kJ2UfQNGwPiogbG1G6.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5613.JPEG-Jqeo6EEhSfm5WnTlWUns3Uqbq2k5Fv.jpeg",
+    alt: "Curly textured top with clean fade"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5607.JPEG-IUV8BQuAOuj8g8J6scT6DmUwuTCJBz.jpeg",
+    alt: "Textured top with low fade back view"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4196.JPG-TCU3wjAovAVuApriUJMdfTNA6q2nGH.jpeg",
     alt: "Clean textured haircut from behind"
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4195.JPG-gOMSKkQVet81hzgR63oo1Ad8kpHvpr.jpeg",
-    alt: "Precision clipper work on neckline"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5533-EViEMtsdH2WBaT8bzcFQQNHgUawuh5.jpeg",
-    alt: "Textured haircut with low fade side profile"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5611.JPEG-311ry59CWHpzzuGoldE2jwblex4Ue5.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5611.JPEG-DGevT2ex8hn6bhpezzhJM4hDv6IPrq.jpeg",
     alt: "Textured top with clean fade back view"
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5609.JPEG-3RJxyXP5iGc2IBuCBHrBvSzdPtwxqO.jpeg",
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5609.JPEG-knVHCFAI3UhtAFqrD8YR1vgSPAMnI6.jpeg",
     alt: "Textured top with sharp neckline taper"
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5607.JPEG-4rmL3BV46Hmy3hV8mjkjlhk3K2iPGg.jpeg",
-    alt: "Clean fade with textured top back view"
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4194.JPG-axrw2dMNcvr39Mm8A7Gl16rGgcplAg.jpeg",
+    alt: "Detailed fade haircut in progress"
   },
   {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5610.JPEG-iegpDeiNAw0abfcLsLCbX6h6NFv7it.jpeg",
-    alt: "Textured fringe with clean fade side profile"
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5533-EBBHHn9oghOmMvJJAXQ3F8vdomEuvD.jpeg",
+    alt: "Textured haircut with low fade side profile"
   },
 ]
 
