@@ -18,6 +18,26 @@ const galleryImages = [
     src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4195.JPG-gOMSKkQVet81hzgR63oo1Ad8kpHvpr.jpeg",
     alt: "Precision clipper work on neckline"
   },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5533-EViEMtsdH2WBaT8bzcFQQNHgUawuh5.jpeg",
+    alt: "Textured haircut with low fade side profile"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5611.JPEG-311ry59CWHpzzuGoldE2jwblex4Ue5.jpeg",
+    alt: "Textured top with clean fade back view"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5609.JPEG-3RJxyXP5iGc2IBuCBHrBvSzdPtwxqO.jpeg",
+    alt: "Textured top with sharp neckline taper"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5607.JPEG-4rmL3BV46Hmy3hV8mjkjlhk3K2iPGg.jpeg",
+    alt: "Clean fade with textured top back view"
+  },
+  {
+    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_5610.JPEG-iegpDeiNAw0abfcLsLCbX6h6NFv7it.jpeg",
+    alt: "Textured fringe with clean fade side profile"
+  },
 ]
 
 function TikTokIcon({ className }: { className?: string }) {
