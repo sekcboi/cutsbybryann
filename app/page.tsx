@@ -30,22 +30,6 @@ const galleryImages = [
     src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4188.JPG-dbv6xyZ9MAVY890dJkndpB5jbsGakI.jpeg",
     alt: "Focused barber during haircut session"
   },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4139.JPG-KIDh2Jw0jGxfhpjowiHCUDSwBGiffT.jpeg",
-    alt: "Professional clippers on charging dock"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4151.JPG-EgndnylTNsccnm8XRtyXnePk8oqcqn.jpeg",
-    alt: "BarberTop trimmer close-up"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4148.JPG-WSLzOsNcvAOH3jqe61G9Sna1f0pQYe.jpeg",
-    alt: "Professional barbering tools and scissors"
-  },
-  {
-    src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_4158.JPEG-72OciAXdq4UlvEh9qD1eeBSekd4V3F.jpeg",
-    alt: "Barber products and supplies"
-  },
 ]
 
 function TikTokIcon({ className }: { className?: string }) {
